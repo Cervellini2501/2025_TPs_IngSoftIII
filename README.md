@@ -4,7 +4,7 @@ Repositorio Git de Ingeniería de Software 3 - 2025
 
 ---
 
-Links de los 4 trabajos prácticos a entregar:  
+Links de los 8 trabajos prácticos a entregar:  
 
 TP1:  https://github.com/Cervellini2501/2025_TPs_IngSoftIII  
 
